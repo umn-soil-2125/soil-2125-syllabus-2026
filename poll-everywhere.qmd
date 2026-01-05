@@ -1,0 +1,53 @@
+# Signing Up for Poll Everywhere to Get Credit for Lecture Questions
+
+## What is Poll Everywhere?
+
+Poll Everywhere is a live polling and survey app that we will be using throughout the semester. It will be used to respond to questions in lecture for attendance purposes (**NOTE: For full credit on the [Lecture Questions](assignments-points-grades.qmd) portion of your grade, you are required to attend a minimum of 25 of the 31 lectures throughout the semester. If you attend more than 25 lectures, you will receive extra credit.**) If you are a registered student in SOIL 2125, you will have had an account created for you in Poll Everywhere by your instructors. 
+
+**NOTE: If you have previously had an account set up for Poll Everywhere in another course with your umn.edu email, you may need to login using your existing account.**
+
+## Getting Started with the Poll Everywhere App
+
+### Download the Poll Everywhere App to Your Phone
+
+The Poll Everywhere App is available for both iPhone (iOS) and Android phones. Go to whatever app store you typically use on your device and search for "Poll Everywhere". The logo should look something like this:
+
+![Poll Everywhere logo as viewed on App Store](poll-everywhere.jpg)
+
+Download the app to your phone and open it.
+
+### Logging In - FOLLOW THESE INSTRUCTIONS!
+
+If you are registered for this course, then we have created an account for you in Poll Everywhere **using your University email - remember to use your .edu email, not a personal account.**
+
+1.  Open the Poll Everywhere app. The homescreen should look like this:
+
+![Poll Everywhere home screen](poll-everywhere-home-screen.jpeg){width="30%"}
+
+2.  Click on either "Registration" or "Login" on the bottom right. It should take you to a screen that looks like this:
+
+![Poll Everywhere Login screen](poll-everywhere-login.jpeg){width="30%"}
+
+NOTE: You may be asked to authenticate or update preferences at some point - just click continue on all prompts!
+
+3.  Enter your umn.edu email address in the "Email or username" field. **NOTE: it is extremely important that you use your umn.edu address as this is what was used to create the registration for you.**
+
+4.  You will then be prompted for a password. Your password will be: 2125-\[your 7 digit student ID number\]. So, if my ID number is 1234567, then my password is **2125-1234567**. **Make sure to use your 7 digit student ID (all numbers) - this should be the same 7 digit number that is on your ID card NOT your x500 (the first part of your email)**.
+
+![Poll Everywhere Password screen](poll-everywhere-password.jpeg){width="30%"}
+
+5.  Now, under "Registration", it should now show you as having 1 registration with my name as presenter:
+
+![Poll Everywhere Registration screen](poll-everywhere-registration.jpeg){width="30%"}
+
+6.  Now go back to the Home screen, and you will see a prompt to join a presentation. Where it says "PollEv.com/ username", enter "soil2125" in the username field. *"pollev.com/soil2125" may also show up in your "Recent presentations" list because you are now registered - you can also click that.*
+
+![Poll Everywhere Join screen](poll-everywhere-join.jpeg){width="30%"}
+
+7.  Once you are in, if there is a survey active, you will see the name of the survey and a blue button to "Start survey". You will also see a blue header banner that has your name and "Responding as ...":
+
+![Poll Everywhere Responding screen](poll-everywhere-responding.png){width="30%"}
+
+8.  Respond to the questions and you are good to go!
+
+9.  Note that once you respond to the questions it may show you a screen that says "waiting for next activity". That is fine - that means you have completed it and your results are recorded.

@@ -1,0 +1,30 @@
+# Class Schedule - Subject to Change
+
+```{r, echo = FALSE, message=FALSE, warning=FALSE}
+library(knitr)
+library(dplyr)
+library(kableExtra)
+class.schedule = read.csv("class-schedule-revised-05JAN2026.csv")
+class.schedule = select(class.schedule, -1)
+colnames(class.schedule) = c("Day", "Date", "Topic Focus", "What's Due?", "Suggested Readings - Brady and Weil 4th ed", "Lab Unit")
+
+kbl(class.schedule, format = "html") %>%
+kable_styling("bordered", full_width = F, fixed_thead = T, html_font = "arial") %>%
+  pack_rows("Week 1", 1,3, background = "grey80") %>%
+  pack_rows("Week 2", 4,7, color = "grey80") %>%
+  pack_rows("Week 3", 8,11) %>%
+  pack_rows("Week 4", 12,15) %>%
+  pack_rows("Week 5", 16,20) %>%
+  pack_rows("Week 6", 21,24) %>%
+  pack_rows("Week 7", 25,28) %>%
+  pack_rows("Week 8", 29,29) %>%
+  pack_rows("Week 9", 30,33) %>%
+  pack_rows("Week 10", 34,38) %>%
+  pack_rows("Week 11", 39,42) %>%
+  pack_rows("Week 12", 43,46) %>%
+  pack_rows("Week 13", 47,51) %>%
+  pack_rows("Week 14", 52,55) %>%
+  pack_rows("Week 15", 56,59) %>%
+  pack_rows("Week 16", 60,62) %>%
+  scroll_box(width = "100%", height = "1000px")
+```
