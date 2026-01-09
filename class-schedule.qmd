@@ -14,17 +14,18 @@ kable_styling("bordered", full_width = F, fixed_thead = T, html_font = "arial") 
   pack_rows("Week 2", 4,7, color = "grey80") %>%
   pack_rows("Week 3", 8,11) %>%
   pack_rows("Week 4", 12,15) %>%
-  pack_rows("Week 5", 16,20) %>%
-  pack_rows("Week 6", 21,24) %>%
-  pack_rows("Week 7", 25,28) %>%
-  pack_rows("Week 8", 29,29) %>%
-  pack_rows("Week 9", 30,33) %>%
-  pack_rows("Week 10", 34,38) %>%
-  pack_rows("Week 11", 39,42) %>%
-  pack_rows("Week 12", 43,46) %>%
-  pack_rows("Week 13", 47,51) %>%
-  pack_rows("Week 14", 52,55) %>%
-  pack_rows("Week 15", 56,59) %>%
-  pack_rows("Week 16", 60,62) %>%
+  pack_rows("Week 5", 16,19) %>%
+  pack_rows("Week 6", 20,23) %>%
+  pack_rows("Week 7", 24,27) %>%
+  pack_rows("Week 8", 28,28) %>%
+  pack_rows("Week 9", 29,32) %>%
+  pack_rows("Week 10", 33,36) %>%
+  pack_rows("Week 11", 37,40) %>%
+  pack_rows("Week 12", 41,44) %>%
+  pack_rows("Week 13", 45,48) %>%
+  pack_rows("Week 14", 49,52) %>%
+  pack_rows("Week 15", 53,56) %>%
+  pack_rows("Week 16", 57,58) %>%
+  pack_rows("Finals Week", 59,59) %>%
   scroll_box(width = "100%", height = "1000px")
 ```
