@@ -32,7 +32,7 @@ NOTE: You may be asked to authenticate or update preferences at some point - jus
 
 3.  Enter your umn.edu email address in the "Email or username" field. **NOTE: it is extremely important that you use your umn.edu address as this is what was used to create the registration for you.**
 
-4.  You will then be prompted for a password. Your password will be: 2125-\[your 7 digit student ID number\]. So, if my ID number is 1234567, then my password is **2125-1234567**. **Make sure to use your 7 digit student ID (all numbers) - this should be the same 7 digit number that is on your ID card NOT your x500 (the first part of your email)**.
+4.  You will then be prompted for a password. IF you have previously created a Poll Everywhere account for a different class, then you will have an existing password. Otherwise, your password will be: 2125-\[your 7 digit student ID number\]. So, if my ID number is 1234567, then my password is **2125-1234567**. **Make sure to use your 7 digit student ID (all numbers) - this should be the same 7 digit number that is on your ID card NOT your x500 (the first part of your email)**.
 
 ![Poll Everywhere Password screen](poll-everywhere-password.jpeg){width="30%"}
 
